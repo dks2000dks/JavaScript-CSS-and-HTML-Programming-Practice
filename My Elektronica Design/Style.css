@@ -1,0 +1,68 @@
+html
+{
+  margin: 0;
+  padding: 0;
+}
+
+body
+{
+  font-family: 'Times New Roman',Times,serif;
+  line-height: 1.25;
+  font-size: 13pt;
+  font-style: italic;
+  background-color: #efefef;
+  padding: 10px;
+  margin: 0;
+}
+
+.section
+{
+  background-color: #fff;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+#header
+{
+  background-image: url("http://www.gptcperinthalmanna.in/wp-content/uploads/2016/02/Electronics-Wall2.jpg");
+  background-size: cover;
+}
+
+#header img
+{
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+
+#header p {
+  font-size: 25pt;
+  color: #FFFAFA;
+  font-style: italic;
+  padding-top: 5px;
+  margin: 0;
+  font-weight: strong;
+  text-align: center;
+}
+
+h1
+{
+  font-size: 20pt;
+  color: #FD8000;
+  font-style: italic;
+  font-weight:lighter;
+  text-align: center;
+  margin: 18px 0 18px 0;
+}
+
+h2
+{
+  font-size: 15pt;
+  color: #D2691E;
+  font-style: italic;
+  font-weight:lighter;
+  text-align: left;
+  margin: 18px 0 18px 0;
+}
